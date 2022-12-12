@@ -1,8 +1,8 @@
 # Iga
 Open Source Automated Solder Paste Dispensing Hardware and Software
 
-Introduction
+# Introduction
 Iga is a project to create a simple way to create a completely Open Source machine and software for generating gcode for the automation of dispensing solder paste on circuit boards, and interfacing with the machine to run the code. 
 
-Project Status
+# Project Status
 Iga is in very early stages at this point. 
