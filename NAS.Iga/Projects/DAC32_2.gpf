@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectInformation>
+  <ProjectName>DAC32_2</ProjectName>
+  <Path>C:\Users\Milton\Documents\Visual Studio 2017\Projects\CSharp Projects\GerberView\GerberView\Projects\DAC32_2.gpf</Path>
+  <FileCount>4</FileCount>
+  <CurrentIndex>3</CurrentIndex>
+  <BackgroundColor>-16777216</BackgroundColor>
+  <CheckBeforeDelete>True</CheckBeforeDelete>
+  <ShowHiddenSelection>False</ShowHiddenSelection>
+  <LayerInformation>
+    <FileName>L01_TOP.GBX</FileName>
+    <FilePath>C:\Users\Milton\Documents\Visual Studio 2017\Projects\CSharp Projects\GerberView\GerberFiles\DAC32_2_2-0\L01_TOP.GBX</FilePath>
+    <LayerColor>-1317670297</LayerColor>
+    <LayerVisible>True</LayerVisible>
+    <TranslateX>0</TranslateX>
+    <TranslateY>0</TranslateY>
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Rotation>0</Rotation>
+    <MirrorAroundX>False</MirrorAroundX>
+    <MirrorAroundY>False</MirrorAroundY>
+    <Inverted>False</Inverted>
+  </LayerInformation>
+  <LayerInformation>
+    <FileName>L01_TOP.GBX</FileName>
+    <FilePath>C:\Users\Milton\Documents\Visual Studio 2017\Projects\CSharp Projects\GerberView\GerberFiles\DAC32_2_2-0\L01_TOP.GBX</FilePath>
+    <LayerColor>-1317833762</LayerColor>
+    <LayerVisible>True</LayerVisible>
+    <TranslateX>0</TranslateX>
+    <TranslateY>0</TranslateY>
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Rotation>0</Rotation>
+    <MirrorAroundX>False</MirrorAroundX>
+    <MirrorAroundY>False</MirrorAroundY>
+    <Inverted>False</Inverted>
+  </LayerInformation>
+  <LayerInformation>
+    <FileName>Drill_Plated_01-02.nc</FileName>
+    <FilePath>C:\Users\Milton\Documents\Visual Studio 2017\Projects\CSharp Projects\GerberView\GerberFiles\DAC32_2_2-0\Drill_Plated_01-02.nc</FilePath>
+    <LayerColor>-1308655757</LayerColor>
+    <LayerVisible>True</LayerVisible>
+    <TranslateX>0</TranslateX>
+    <TranslateY>0</TranslateY>
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Rotation>0</Rotation>
+    <MirrorAroundX>False</MirrorAroundX>
+    <MirrorAroundY>False</MirrorAroundY>
+    <Inverted>False</Inverted>
+  </LayerInformation>
+  <LayerInformation>
+    <FileName>TopPrint.GBX</FileName>
+    <FilePath>C:\Users\Milton\Documents\Visual Studio 2017\Projects\CSharp Projects\GerberView\GerberFiles\DAC32_2_2-0\TopPrint.GBX</FilePath>
+    <LayerColor>-1308623104</LayerColor>
+    <LayerVisible>True</LayerVisible>
+    <TranslateX>0</TranslateX>
+    <TranslateY>0</TranslateY>
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Rotation>0</Rotation>
+    <MirrorAroundX>False</MirrorAroundX>
+    <MirrorAroundY>False</MirrorAroundY>
+    <Inverted>False</Inverted>
+  </LayerInformation>
+</ProjectInformation>
